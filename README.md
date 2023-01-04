@@ -1,4 +1,4 @@
-# Tubes-STD_Mochammad-Rafi-Adiyana
+# Tubes-STD-Instagram_Kelompok-Bismillah-Lulus_IF-45-03
 Membuat algoritma mengenai cara kerja Instagram dengan menggunakan konsep multi linked list m to n. Spesifiknya, CSLL untuk list parent dan DLL untuk list child. 
 Bahasa pemrograman yang digunakan yaitu C++.
 
