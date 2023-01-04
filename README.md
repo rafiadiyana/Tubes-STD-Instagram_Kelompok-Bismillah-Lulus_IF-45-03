@@ -1,5 +1,5 @@
 # Tubes-STD_Mochammad-Rafi-Adiyana
-Membuat algoritma mengenai cara kerja Instagram
+Membuat algoritma mengenai cara kerja Instagram.
 Function dan procedure yang dibuat:
 1) func newElmAccount
 2) proc addAccount
