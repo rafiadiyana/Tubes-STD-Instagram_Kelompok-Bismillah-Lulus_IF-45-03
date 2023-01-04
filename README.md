@@ -1,5 +1,5 @@
 # Tubes-STD_Mochammad-Rafi-Adiyana
-Membuat algoritma mengenai cara kerja Instagram dengan menggunakan konsep multi linked list m to n. Speisifiknya, CSLL untuk list parent dan DLL untuk list child. 
+Membuat algoritma mengenai cara kerja Instagram dengan menggunakan konsep multi linked list m to n. Spesifiknya, CSLL untuk list parent dan DLL untuk list child. 
 Bahasa pemrograman yang digunakan yaitu C++.
 
 Function dan procedure yang dibuat:
@@ -13,5 +13,5 @@ Function dan procedure yang dibuat:
 8) proc printGraph
 9) func countFollowing
 10) func countFollower
-11) func selectMenu
-12) func kembaliMenu
+11) proc selectMenu
+12) proc kembaliMenu
