@@ -9,7 +9,7 @@ Function dan procedure yang dibuat:
 4) func findAccount
 5) func findAccountID
 6) proc follow
-7) proc u
+7) proc unfollow
 8) proc printGraph
 9) func countFollowing
 10) func countFollower
